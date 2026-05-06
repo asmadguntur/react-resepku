@@ -1,0 +1,16 @@
+.font-inter {
+  font-family: "Inter", sans-serif;
+}
+
+.card {
+  max-width: 413px;
+}
+
+.card .desc {
+  height: 210px;
+}
+
+body {
+  background-color: #fffbf5;
+  padding: 20px;
+}
