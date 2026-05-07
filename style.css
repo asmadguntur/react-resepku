@@ -14,3 +14,7 @@ body {
   background-color: #fffbf5;
   padding: 20px;
 }
+
+.favorite-icon span.filled {
+  font-variation-settings: 'FILL' 1;
+}
